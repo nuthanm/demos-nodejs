@@ -1,0 +1,19 @@
+{
+  "name": "demos-nodejs",
+  "version": "1.0.0",
+  "description": "Has list of node js demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuthanm/demos-nodejs.git"
+  },
+  "author": "Nuthan (Nani)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuthanm/demos-nodejs/issues"
+  },
+  "homepage": "https://github.com/nuthanm/demos-nodejs#readme"
+}
