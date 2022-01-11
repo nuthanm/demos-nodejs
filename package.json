@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nuthanm/demos-nodejs/issues"
   },
-  "homepage": "https://github.com/nuthanm/demos-nodejs#readme"
+  "homepage": "https://github.com/nuthanm/demos-nodejs#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
